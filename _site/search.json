@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website like blog posts coming soon!!",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-05-13T22:48:07-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Cyril Owuor",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\nAbout me:\r\nA compassionate, enthusiastic and team player, Cyril is able to prioritize and bring solutions to the technology world. I have 4 years hands on experience with C# and .NET . I strive to learn new things everyday and put it into practice to make the world a better and simple place to live. I have a keen interest in JavaScript, Python, PHP, R, C# and Java. Data Science is another field I am interested in especially Machine Learning and Deep Learning.\r\nEducation:\r\nGrand Valley State University (2024 - Current)\r\nMasters Degree in Data Science and Analytics\r\nStrathmore University (2016 - 2019)\r\nBachelor’s Degree in Informatics and Computer Science\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-05-13T22:48:09-04:00"
+    }
+  ],
+  "collections": []
+}

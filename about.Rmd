@@ -1,0 +1,10 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website like blog posts coming soon!!
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
